@@ -5,8 +5,8 @@ This Arduino project uses an ultrasonic sensor and IR remote to switch between m
 ## 🔧 Features
 - IR remote to switch between:
   - Mode 1: Any distance
-  - Mode 2: < 100 cm
-  - Mode 3: < 50 cm
+  - Mode 2: <= 100 cm
+  - Mode 3: <= 50 cm
 - LCD feedback for obstacle detection
 - Real-time distance measurement using HC-SR04
 
@@ -31,9 +31,9 @@ See [`extras/ir_remote_codes.txt`](extras/ir_remote_codes.txt) for tested codes.
 1. Upload `obstacle_detector.ino` to your Arduino.
 2. Connect the hardware as per the schematic.
 3. Use IR remote buttons:
-   - "1" → Mode 1
-   - "2" → Mode 2 (< 100cm)
-   - "3" → Mode 3 (< 50cm)
+   - "1" → Mode 1 (Any distance)
+   - "2" → Mode 2 (<= 100cm)
+   - "3" → Mode 3 (<= 50cm)
 4. Watch the LCD for distance or obstacle alerts.
 
 ## 📚 Libraries Required
