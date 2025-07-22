@@ -18,8 +18,8 @@ This Arduino project uses an ultrasonic sensor and IR remote to switch between m
 - LCD (I2C 16x2)
 - Breadboard & Jumpers
 
-## 📷 Demo
-![Demo](images/demo.jpg)
+## 📷 Device
+![Device](images/device.jpg)
 
 ## 🎮 IR Remote Codes
 See [`extras/ir_remote_codes.txt`](extras/ir_remote_codes.txt) for tested codes.
