@@ -21,6 +21,9 @@ This Arduino project uses an ultrasonic sensor and IR remote to switch between m
 ## 📷 Device
 ![Device](images/device.jpg)
 
+## ⚡ Wiring
+See [`wiring_diagrams`](wiring_diagrams) to access the wiring diagrams
+
 ## 🎮 IR Remote Codes
 See [`extras/ir_remote_codes.txt`](extras/ir_remote_codes.txt) for tested codes.
 
