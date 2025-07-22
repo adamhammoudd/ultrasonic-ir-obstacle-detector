@@ -22,7 +22,7 @@ This Arduino project uses an ultrasonic sensor and IR remote to switch between m
 ![Device](images/device.jpg)
 
 ## ⚡ Wiring
-See [`wiring_diagrams`](wiring_diagrams) to access the wiring diagrams
+See [`wiring_diagrams`](wiring_diagrams) to access the wiring diagrams.
 
 ## 🎮 IR Remote Codes
 See [`extras/ir_remote_codes.txt`](extras/ir_remote_codes.txt) for tested codes.
@@ -40,6 +40,8 @@ See [`extras/ir_remote_codes.txt`](extras/ir_remote_codes.txt) for tested codes.
 Install these in the Arduino IDE:
 - `IRremote` by shirriff or z3t0
 - `LiquidCrystal_I2C`
+or
+See [`libraries`](libraries) to download the necessary libraries.
 
 ## 📜 License
 MIT License
