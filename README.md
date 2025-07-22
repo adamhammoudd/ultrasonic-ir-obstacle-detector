@@ -40,7 +40,9 @@ See [`extras/ir_remote_codes.txt`](extras/ir_remote_codes.txt) for tested codes.
 Install these in the Arduino IDE:
 - `IRremote` by shirriff or z3t0
 - `LiquidCrystal_I2C`
+
 or
+
 See [`libraries`](libraries) to download the necessary libraries.
 
 ## 📜 License
