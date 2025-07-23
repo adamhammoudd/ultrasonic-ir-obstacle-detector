@@ -19,7 +19,7 @@ This Arduino project uses an ultrasonic sensor and IR remote to switch between m
 - Breadboard & Jumpers
 
 ## 📷 Device
-![Device](images/device.jpg)
+![Device](images/device.png)
 
 ## ⚡ Wiring
 See [`wiring_diagrams`](wiring_diagrams) to access the wiring diagrams.
